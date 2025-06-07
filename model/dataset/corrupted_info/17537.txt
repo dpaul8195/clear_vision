@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Mild Gaussian blur (radius=1.26)
+JPEG compression (quality=52)
+Salt & pepper noise (severity=0.01)

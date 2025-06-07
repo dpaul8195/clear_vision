@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low contrast (factor=0.71)
+Speckle noise (severity=0.05)
+Occlusion (type=vertical)

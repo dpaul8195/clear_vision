@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.21)
+Occlusion (type=vertical)
+Low brightness (factor=0.79)

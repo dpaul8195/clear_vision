@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Gaussian noise (severity=0.02)
+Occlusion (type=vertical)
+JPEG compression (quality=64)
+Low contrast (factor=0.75)

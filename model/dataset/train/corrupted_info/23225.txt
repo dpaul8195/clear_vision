@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=73)
+Occlusion (type=vertical)
+Salt & pepper noise (severity=0.01)

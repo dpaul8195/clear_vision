@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Motion blur (kernel_size=3)
+Mild Gaussian blur (radius=1.09)
+Salt & pepper noise (severity=0.01)

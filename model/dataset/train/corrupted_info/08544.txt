@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.31)
+Speckle noise (severity=0.08)
+Low contrast (factor=0.74)
+Mild Gaussian blur (radius=1.60)

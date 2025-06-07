@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=63)
+Gaussian noise (severity=0.06)
+Low contrast (factor=0.88)

@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low contrast (factor=0.85)
+Motion blur (kernel_size=5)
+Mild Gaussian blur (radius=0.87)

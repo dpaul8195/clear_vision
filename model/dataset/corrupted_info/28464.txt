@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+JPEG compression (quality=72)
+Mild Gaussian blur (radius=1.62)
+Occlusion (type=vertical)
+Low brightness (factor=0.86)

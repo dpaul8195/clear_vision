@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Occlusion (type=vertical)
+Mild Gaussian blur (radius=1.44)
+Speckle noise (severity=0.02)

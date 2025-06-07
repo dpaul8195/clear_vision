@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Speckle noise (severity=0.04)
+JPEG compression (quality=79)
+Mild Gaussian blur (radius=1.71)
+Salt & pepper noise (severity=0.01)

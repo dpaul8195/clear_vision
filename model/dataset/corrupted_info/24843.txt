@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Occlusion (type=random)
+Gaussian noise (severity=0.04)
+Mild Gaussian blur (radius=1.37)
+Compression blocks (size=8, severity=0.27)

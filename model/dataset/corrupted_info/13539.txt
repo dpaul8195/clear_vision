@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low contrast (factor=0.82)
+Salt & pepper noise (severity=0.01)
+Occlusion (type=vertical)

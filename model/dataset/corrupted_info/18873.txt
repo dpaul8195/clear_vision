@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low contrast (factor=0.75)
+Occlusion (type=random)
+Low brightness (factor=0.78)

@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.18)
+JPEG compression (quality=67)
+Speckle noise (severity=0.06)

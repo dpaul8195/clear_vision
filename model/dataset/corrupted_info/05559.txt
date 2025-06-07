@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=64)
+Mild Gaussian blur (radius=1.80)
+Low brightness (factor=0.87)

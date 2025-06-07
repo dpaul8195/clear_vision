@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Mild Gaussian blur (radius=0.96)
+Occlusion (type=random)
+Gaussian noise (severity=0.04)

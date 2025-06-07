@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.32)
+Low contrast (factor=0.76)
+Motion blur (kernel_size=3)
+Occlusion (type=horizontal)

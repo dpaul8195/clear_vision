@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low contrast (factor=0.78)
+Salt & pepper noise (severity=0.01)
+Motion blur (kernel_size=5)

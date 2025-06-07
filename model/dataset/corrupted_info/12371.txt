@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Occlusion (type=random)
+Salt & pepper noise (severity=0.01)
+JPEG compression (quality=83)
+Gaussian noise (severity=0.06)

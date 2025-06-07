@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Low brightness (factor=0.90)
+Motion blur (kernel_size=7)
+Speckle noise (severity=0.06)
+Gaussian noise (severity=0.05)

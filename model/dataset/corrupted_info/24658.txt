@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Compression blocks (size=8, severity=0.16)
+Occlusion (type=random)
+Motion blur (kernel_size=5)

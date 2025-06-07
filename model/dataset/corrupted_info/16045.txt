@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Gaussian noise (severity=0.06)
+JPEG compression (quality=66)
+Mild Gaussian blur (radius=1.52)
+Motion blur (kernel_size=7)

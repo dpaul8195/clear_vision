@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=74)
+Low contrast (factor=0.80)
+Speckle noise (severity=0.04)

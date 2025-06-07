@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=82)
+Salt & pepper noise (severity=0.01)
+Speckle noise (severity=0.08)

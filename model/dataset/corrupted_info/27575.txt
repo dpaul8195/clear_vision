@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Speckle noise (severity=0.07)
+JPEG compression (quality=58)
+Low contrast (factor=0.74)
+Motion blur (kernel_size=3)

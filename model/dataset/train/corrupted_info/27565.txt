@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Mild Gaussian blur (radius=0.96)
+Compression blocks (size=16, severity=0.19)
+Motion blur (kernel_size=3)

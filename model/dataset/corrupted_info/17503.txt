@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.19)
+Occlusion (type=horizontal)
+JPEG compression (quality=53)
+Gaussian noise (severity=0.06)

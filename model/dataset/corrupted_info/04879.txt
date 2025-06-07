@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Speckle noise (severity=0.06)
+Occlusion (type=horizontal)
+Motion blur (kernel_size=3)
+Low brightness (factor=0.90)

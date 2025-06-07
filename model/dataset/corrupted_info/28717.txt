@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Occlusion (type=vertical)
+Low contrast (factor=0.84)
+Gaussian noise (severity=0.07)

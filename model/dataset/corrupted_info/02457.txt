@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Compression blocks (size=8, severity=0.21)
+Salt & pepper noise (severity=0.01)
+Speckle noise (severity=0.04)

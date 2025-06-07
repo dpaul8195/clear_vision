@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Mild Gaussian blur (radius=1.12)
+Low contrast (factor=0.86)
+Gaussian noise (severity=0.02)
+Speckle noise (severity=0.06)

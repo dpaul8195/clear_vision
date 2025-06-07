@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Motion blur (kernel_size=3)
+JPEG compression (quality=65)
+Low contrast (factor=0.77)

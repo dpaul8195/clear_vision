@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low contrast (factor=0.83)
+Low brightness (factor=0.78)
+Mild Gaussian blur (radius=1.58)

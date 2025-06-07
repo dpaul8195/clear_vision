@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=55)
+Occlusion (type=horizontal)
+Low brightness (factor=0.76)

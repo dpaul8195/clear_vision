@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Occlusion (type=horizontal)
+Compression blocks (size=8, severity=0.28)
+Gaussian noise (severity=0.03)
+Low contrast (factor=0.75)

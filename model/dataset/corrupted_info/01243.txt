@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Occlusion (type=random)
+Low contrast (factor=0.87)
+JPEG compression (quality=70)
+Mild Gaussian blur (radius=1.27)

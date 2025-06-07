@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Occlusion (type=horizontal)
+Low brightness (factor=0.81)
+Compression blocks (size=16, severity=0.25)
+Speckle noise (severity=0.02)

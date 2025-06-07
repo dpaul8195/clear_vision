@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.30)
+Salt & pepper noise (severity=0.01)
+Motion blur (kernel_size=3)

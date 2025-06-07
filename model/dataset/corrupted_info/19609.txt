@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Low brightness (factor=0.87)
+Salt & pepper noise (severity=0.00)
+Occlusion (type=horizontal)
+Motion blur (kernel_size=5)

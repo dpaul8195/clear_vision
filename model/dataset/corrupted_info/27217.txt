@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Motion blur (kernel_size=7)
+Low brightness (factor=0.90)
+Low contrast (factor=0.87)

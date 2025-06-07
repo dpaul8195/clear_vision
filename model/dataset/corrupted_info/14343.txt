@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Low brightness (factor=0.88)
+Low contrast (factor=0.87)
+Mild Gaussian blur (radius=1.36)
+Salt & pepper noise (severity=0.01)

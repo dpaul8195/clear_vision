@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low brightness (factor=0.73)
+Occlusion (type=random)
+Gaussian noise (severity=0.04)

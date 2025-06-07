@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.27)
+Low contrast (factor=0.77)
+Mild Gaussian blur (radius=1.48)

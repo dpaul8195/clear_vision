@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Occlusion (type=horizontal)
+Low brightness (factor=0.89)
+Low contrast (factor=0.79)

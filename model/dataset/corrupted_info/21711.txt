@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Low contrast (factor=0.82)
+Occlusion (type=random)
+Compression blocks (size=8, severity=0.35)
+Salt & pepper noise (severity=0.01)

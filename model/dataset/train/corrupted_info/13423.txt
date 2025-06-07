@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+JPEG compression (quality=71)
+Salt & pepper noise (severity=0.00)
+Motion blur (kernel_size=5)
+Occlusion (type=random)

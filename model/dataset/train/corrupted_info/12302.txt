@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Low contrast (factor=0.76)
+Gaussian noise (severity=0.03)
+Motion blur (kernel_size=5)
+Occlusion (type=horizontal)

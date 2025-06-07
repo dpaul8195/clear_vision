@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=83)
+Occlusion (type=vertical)
+Compression blocks (size=8, severity=0.31)

@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Occlusion (type=horizontal)
+Speckle noise (severity=0.07)
+Gaussian noise (severity=0.07)
+Salt & pepper noise (severity=0.01)

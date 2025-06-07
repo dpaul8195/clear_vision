@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=62)
+Mild Gaussian blur (radius=1.79)
+Speckle noise (severity=0.07)

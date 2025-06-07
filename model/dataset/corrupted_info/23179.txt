@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.33)
+Occlusion (type=vertical)
+Speckle noise (severity=0.03)

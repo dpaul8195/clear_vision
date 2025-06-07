@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Occlusion (type=random)
+JPEG compression (quality=56)
+Mild Gaussian blur (radius=1.12)
+Speckle noise (severity=0.03)

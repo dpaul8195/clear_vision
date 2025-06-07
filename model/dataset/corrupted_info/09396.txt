@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Motion blur (kernel_size=3)
+Low brightness (factor=0.70)
+Occlusion (type=vertical)

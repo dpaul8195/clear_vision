@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low brightness (factor=0.72)
+Compression blocks (size=8, severity=0.17)
+JPEG compression (quality=73)

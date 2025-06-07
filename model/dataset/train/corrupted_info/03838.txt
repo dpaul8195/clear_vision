@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Gaussian noise (severity=0.08)
+JPEG compression (quality=74)
+Salt & pepper noise (severity=0.01)

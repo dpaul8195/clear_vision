@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Gaussian noise (severity=0.07)
+JPEG compression (quality=78)
+Occlusion (type=horizontal)
+Mild Gaussian blur (radius=1.57)

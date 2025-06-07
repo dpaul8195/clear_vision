@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+JPEG compression (quality=54)
+Occlusion (type=horizontal)
+Mild Gaussian blur (radius=1.55)

@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Motion blur (kernel_size=7)
+JPEG compression (quality=65)
+Salt & pepper noise (severity=0.00)

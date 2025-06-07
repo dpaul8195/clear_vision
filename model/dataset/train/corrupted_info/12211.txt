@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Mild Gaussian blur (radius=1.64)
+Speckle noise (severity=0.06)
+Salt & pepper noise (severity=0.01)

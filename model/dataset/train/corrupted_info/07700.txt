@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Occlusion (type=random)
+Speckle noise (severity=0.06)
+Compression blocks (size=8, severity=0.28)
+Gaussian noise (severity=0.06)

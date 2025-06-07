@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Mild Gaussian blur (radius=1.13)
+Occlusion (type=vertical)
+Low contrast (factor=0.74)
+Salt & pepper noise (severity=0.01)

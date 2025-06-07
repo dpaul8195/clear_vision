@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Low brightness (factor=0.77)
+Low contrast (factor=0.85)
+Salt & pepper noise (severity=0.01)

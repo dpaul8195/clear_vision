@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Gaussian noise (severity=0.03)
+Low brightness (factor=0.79)
+Salt & pepper noise (severity=0.01)
+Low contrast (factor=0.88)

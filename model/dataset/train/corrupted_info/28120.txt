@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Low contrast (factor=0.83)
+Compression blocks (size=8, severity=0.18)
+Occlusion (type=random)
+Gaussian noise (severity=0.08)

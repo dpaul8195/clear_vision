@@ -1,0 +1,4 @@
+Multiple corruptions applied:
+Speckle noise (severity=0.06)
+Salt & pepper noise (severity=0.00)
+Low contrast (factor=0.75)

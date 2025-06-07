@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Low contrast (factor=0.84)
+JPEG compression (quality=84)
+Motion blur (kernel_size=3)
+Occlusion (type=vertical)

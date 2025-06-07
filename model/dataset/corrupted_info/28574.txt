@@ -1,0 +1,5 @@
+Multiple corruptions applied:
+Compression blocks (size=16, severity=0.32)
+Mild Gaussian blur (radius=1.32)
+Low contrast (factor=0.80)
+Salt & pepper noise (severity=0.01)
