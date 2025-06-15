@@ -1,4 +1,0 @@
-Multiple corruptions applied:
-Motion blur (kernel_size=7)
-Occlusion (type=random)
-Speckle noise (severity=0.04)

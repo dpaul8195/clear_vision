@@ -1,5 +1,0 @@
-Multiple corruptions applied:
-Occlusion (type=horizontal)
-JPEG compression (quality=68)
-Speckle noise (severity=0.03)
-Low brightness (factor=0.78)

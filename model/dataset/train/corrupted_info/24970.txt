@@ -1,4 +1,0 @@
-Multiple corruptions applied:
-Gaussian noise (severity=0.03)
-Occlusion (type=horizontal)
-Speckle noise (severity=0.03)

@@ -1,4 +1,0 @@
-Multiple corruptions applied:
-Motion blur (kernel_size=5)
-Speckle noise (severity=0.06)
-Low contrast (factor=0.86)

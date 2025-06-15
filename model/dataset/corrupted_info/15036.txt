@@ -1,4 +1,0 @@
-Multiple corruptions applied:
-Motion blur (kernel_size=7)
-Mild Gaussian blur (radius=1.30)
-Occlusion (type=random)

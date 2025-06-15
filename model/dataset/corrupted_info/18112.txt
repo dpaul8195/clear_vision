@@ -1,4 +1,0 @@
-Multiple corruptions applied:
-Gaussian noise (severity=0.05)
-Speckle noise (severity=0.05)
-Salt & pepper noise (severity=0.01)

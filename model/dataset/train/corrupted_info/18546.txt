@@ -1,5 +1,0 @@
-Multiple corruptions applied:
-Gaussian noise (severity=0.02)
-Mild Gaussian blur (radius=1.65)
-Motion blur (kernel_size=3)
-Occlusion (type=horizontal)

@@ -1,4 +1,0 @@
-Multiple corruptions applied:
-Motion blur (kernel_size=7)
-Occlusion (type=vertical)
-Low contrast (factor=0.87)

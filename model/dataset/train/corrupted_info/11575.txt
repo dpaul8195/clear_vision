@@ -1,4 +1,0 @@
-Multiple corruptions applied:
-Low contrast (factor=0.79)
-Compression blocks (size=8, severity=0.27)
-Occlusion (type=horizontal)

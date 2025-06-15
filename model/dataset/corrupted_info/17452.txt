@@ -1,4 +1,0 @@
-Multiple corruptions applied:
-JPEG compression (quality=67)
-Salt & pepper noise (severity=0.01)
-Low contrast (factor=0.84)

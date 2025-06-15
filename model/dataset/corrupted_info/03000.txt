@@ -1,5 +1,0 @@
-Multiple corruptions applied:
-Compression blocks (size=8, severity=0.21)
-JPEG compression (quality=84)
-Motion blur (kernel_size=5)
-Occlusion (type=random)
