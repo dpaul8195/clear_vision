@@ -32,7 +32,6 @@ def process_images(input_dir, output_dir="dataset"):
         ("jpeg_compression", add_jpeg_compression),
         ("low_brightness", adjust_brightness),
         ("low_contrast", adjust_contrast),
-        ("occlusion", add_occlusion),
         ("compression_blocks", add_compression_blocks),
     ]
 
@@ -115,12 +114,6 @@ def process_images(input_dir, output_dir="dataset"):
                     factor = random.uniform(0.7, 0.9)
                     corrupted_img = corruption_func(corrupted_img, factor)
                     corruption_info_list.append(f"Low contrast (factor={factor:.2f})")
-
-                elif corruption_name == "occlusion":
-                    # Reduced occlusion size parameters
-                    occlusion_type = random.choice(["random", "horizontal", "vertical"])
-                    corrupted_img = corruption_func(corrupted_img, occlusion_type)
-                    corruption_info_list.append(f"Occlusion (type={occlusion_type})")
 
                 elif corruption_name == "compression_blocks":
                     block_size = random.choice([8, 16])
