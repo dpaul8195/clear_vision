@@ -82,49 +82,6 @@ def adjust_contrast(image, factor=0.7):
     return enhancer.enhance(factor)
 
 
-def add_occlusion(image, occlusion_type="random"):
-    """Add occlusion to image with reduced parameters"""
-    img_array = np.array(image)
-    height, width, _ = img_array.shape
-
-    if occlusion_type == "random":
-        # Reduced rectangle occlusion size
-        rect_width = random.randint(width // 10, width // 4)  # Smaller than before
-        rect_height = random.randint(height // 10, height // 4)  # Smaller than before
-        x = random.randint(0, width - rect_width)
-        y = random.randint(0, height - rect_height)
-
-        # Random color for occlusion (black, white, or random)
-        color_choice = random.choice(["black", "white", "random"])
-        if color_choice == "black":
-            color = [0, 0, 0]
-        elif color_choice == "white":
-            color = [255, 255, 255]
-        else:
-            color = [
-                random.randint(0, 255),
-                random.randint(0, 255),
-                random.randint(0, 255),
-            ]
-
-        img_array[y : y + rect_height, x : x + rect_width, :] = color
-
-    elif occlusion_type == "horizontal":
-        # Smaller horizontal stripe occlusion
-        stripe_height = random.randint(height // 50, height // 20)  # Much smaller
-        y = random.randint(0, height - stripe_height)
-        color = [random.randint(0, 255), random.randint(0, 255), random.randint(0, 255)]
-        img_array[y : y + stripe_height, :, :] = color
-
-    elif occlusion_type == "vertical":
-        # Smaller vertical stripe occlusion
-        stripe_width = random.randint(width // 50, width // 20)  # Much smaller
-        x = random.randint(0, width - stripe_width)
-        color = [random.randint(0, 255), random.randint(0, 255), random.randint(0, 255)]
-        img_array[:, x : x + stripe_width, :] = color
-
-    return Image.fromarray(img_array)
-
 
 def add_compression_blocks(image, block_size=8, severity=0.5):
     """Simulate compression blocks similar to DCT artifacts"""
