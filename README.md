@@ -29,9 +29,7 @@ image-restoration-project/
 │ ├── corruption_utils.py # Functions to apply 10 image corruptions
 │ ├── split_dataset.py # Script to split dataset into train/val/test
 │ └── evaluation.py # Computes PSNR, SSIM, LPIPS, and latency
-├── visuals/
-│ ├── varify.py # Side-by-side visualization (original vs corrupted)
-│ └── visualize_samples.py # Random dataset sample viewer
+│ └── visuals.py # Side-by-side visualization (original vs corrupted)
 ```
 ---
 
